@@ -4,11 +4,12 @@ This repository contains code to accompany the article:
 > High-Performance I/O Tools for R.'' The R Journal (2017).
 > To Appear.
 
-Three files are included:
+Four files are included:
 
-- `download.R`: an R script to download the Airline on-time performance data
-- `benchmark.R`: an R script to run the benchmarks included in the paper
-- `results.R`: an R script to construct tables included in the paper
+- `download.R`: download the Airline on-time performance data
+- `benchmark.R`: run the benchmarks included in the paper
+- `results.R`: construct tables included in the paper
+- `parallel.R`: construct figure showing the effects of parallel execution of workers
 
 More details about the package can be found on 
 [CRAN](https://cran.r-project.org/web/packages/iotools/), and the
