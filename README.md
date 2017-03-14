@@ -4,7 +4,8 @@ This repository contains code to accompany the article:
 > High-Performance I/O Tools for R.'' The R Journal (2017).
 > To Appear.
 
-Four files are included:
+A preprint of the paper is available on [arXiv.org](https://arxiv.org/abs/1510.00041).
+Four files are included as supplemental materials:
 
 - `download.R`: download the Airline on-time performance data
 - `benchmark.R`: run the benchmarks included in the paper
