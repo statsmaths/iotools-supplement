@@ -8,7 +8,7 @@ Three files are included:
 
 - `download.R`: an R script to download the Airline on-time performance data
 - `benchmark.R`: an R script to run the benchmarks included in the paper
-- `graphics.R`: an R script to construct the plot contains in the paper
+- `results.R`: an R script to construct tables included in the paper
 
 More details about the package can be found on 
 [CRAN](https://cran.r-project.org/web/packages/iotools/), and the
