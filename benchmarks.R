@@ -1,4 +1,4 @@
-# Download the Airline On-time performance data
+# Benchmark iotools::read.csv.raw and readr::read_csv on simulated data
 # Authors: Taylor Arnold and Mike Kane
 # Date: 2017-03-14
 
