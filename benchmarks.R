@@ -6,7 +6,6 @@ library(dplyr)
 library(readr)
 library(iotools)
 library(microbenchmark)
-library(xtable)
 
 n <- 1e6
 p <- 25
